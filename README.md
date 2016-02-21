@@ -1,9 +1,9 @@
-# angular-diagnostics
+# angular-module-and-component-counter
 A quick roll call into the browser console to count your Angular 1.x projects modules and components.
 
-Include the angular-diagnostic.js file into your project after angulars main script and before your first app module is declared. 
+Include the angular-counter.js file into your project after angulars main script and before your first app module is declared. 
 
-After all JS initialization is complete, use the browser console to run diagnostics. 
+After all JS initialization is complete, use the browser console to run the counter. 
 
 angular.runCounter();
 
