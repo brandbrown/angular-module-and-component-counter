@@ -20,7 +20,7 @@
 
 })(angular.module);
 
-angular.runDiagnostic = function () {
+angular.runCounter = function () {
     var exclusions = [];
     var allComponents = [];
     var componentsRecord = {};
