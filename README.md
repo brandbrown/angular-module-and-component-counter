@@ -10,27 +10,27 @@ angular.runDiagnostic();
 Example output: 
 
 myApp: 3 components<br>
-directive: myMainDirective
-factory: someService
-register: someController
-directive : 1
-factory : 1
-register : 1
+directive: myMainDirective<br>
+factory: someService<br>
+register: someController<br>
+directive : 1<br>
+factory : 1<br>
+register : 1<br>
 
 
-some.other.module.name: 1 components
-register: activeFilter
-register : 1
+some.other.module.name: 1 components<br>
+register: activeFilter<br>
+register : 1<br>
 
 
-=SUMMARY= 
+=SUMMARY= <br>
 
-Total modules: 2
-register : 2
-directive : 1
-value : 0
-factory : 1
-Total Components: 4
-Excluding these modules: ["ngAnimate", "ui.bootstrap", "ngCookies"]
+Total modules: 2<br>
+register : 2<br>
+directive : 1<br>
+value : 0<br>
+factory : 1<br>
+Total Components: 4<br>
+Excluding these modules: ["ngAnimate", "ui.bootstrap", "ngCookies"]<br>
 
 Tip: register can be controllers or filters, this is Angulars name for them, not mine.
