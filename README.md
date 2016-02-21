@@ -9,7 +9,7 @@ angular.runDiagnostic();
 
 Example output: 
 
-myApp: 3 components
+myApp: 3 components<br>
 directive: myMainDirective
 factory: someService
 register: someController
