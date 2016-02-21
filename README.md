@@ -5,7 +5,7 @@ Include the angular-diagnostic.js file into your project after angulars main scr
 
 After all JS initialization is complete, use the browser console to run diagnostics. 
 
-angular.runDiagnostic();
+angular.runCounter();
 
 Example output: 
 
